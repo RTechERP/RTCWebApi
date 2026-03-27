@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RTCWebApi", "RTCWebApi\RTCWebApi.csproj", "{20E496E5-3640-4890-9D08-627DFE7951FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RTCWebApi.IRepository", "RTCWebApi.IRepository\RTCWebApi.IRepository.csproj", "{8368AA09-B2B0-466E-B8E9-D428AEE4E6AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RTCWebApi.Repository", "RTCWebApi.Repository\RTCWebApi.Repository.csproj", "{13B3D34A-01A3-4F65-B13A-B17CE7FE00A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RTCWebApi.Model", "RTCWebApi.Model\RTCWebApi.Model.csproj", "{F87DF341-36AE-4747-97BC-22D0717A17F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{08A33CCF-0928-4869-AD1D-005392B01769}"
+	ProjectSection(SolutionItems) = preProject
+		LogUpdateModel.txt = LogUpdateModel.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E496E5-3640-4890-9D08-627DFE7951FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E496E5-3640-4890-9D08-627DFE7951FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E496E5-3640-4890-9D08-627DFE7951FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E496E5-3640-4890-9D08-627DFE7951FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8368AA09-B2B0-466E-B8E9-D428AEE4E6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8368AA09-B2B0-466E-B8E9-D428AEE4E6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8368AA09-B2B0-466E-B8E9-D428AEE4E6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8368AA09-B2B0-466E-B8E9-D428AEE4E6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B3D34A-01A3-4F65-B13A-B17CE7FE00A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B3D34A-01A3-4F65-B13A-B17CE7FE00A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B3D34A-01A3-4F65-B13A-B17CE7FE00A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B3D34A-01A3-4F65-B13A-B17CE7FE00A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87DF341-36AE-4747-97BC-22D0717A17F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87DF341-36AE-4747-97BC-22D0717A17F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87DF341-36AE-4747-97BC-22D0717A17F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87DF341-36AE-4747-97BC-22D0717A17F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B218E32B-2AE3-4D22-84CE-D78B62CBE207}
+	EndGlobalSection
+EndGlobal
